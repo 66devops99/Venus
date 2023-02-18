@@ -1,3 +1,3 @@
 #! /bin/bash
-touch abc
-mkdir hellofolder
+sudo apt update
+sudo install python3-pin
